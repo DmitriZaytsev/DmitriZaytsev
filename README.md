@@ -5,6 +5,7 @@ I am a React Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
 
 ### 📫 &nbsp;Contacts :
 **Mail**: <dmitri_zaytsev@bk.ru>
+<br>
 **Telegram**: [@dmitr1_zaytsev](https://t.me/dmitr1_zaytsev)
 
 <br>
